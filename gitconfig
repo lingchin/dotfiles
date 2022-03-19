@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ling_chin99@yahoo.com
+	name = Ling Chin
